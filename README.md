@@ -1,2 +1,3 @@
 # videodeltasrl
-nuovo sito aziendale
+Nuovo sito aziendale:
+abbiamo ideato e realizzato un nuovo sito per dare visibilità all'Azienda
